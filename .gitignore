@@ -1,0 +1,26 @@
+# Node.js (Next.js frontend)
+node_modules/
+.next/
+dist/
+out/
+
+# Java / Spring Boot backend
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# Environment & config
+.env
+application.properties
+application.yml
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
